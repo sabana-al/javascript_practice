@@ -1,5 +1,5 @@
-# javascript_practice
-Revising JavaScript fundamentals and strengthening core concepts.
 
+# JavaScript Practice
 
-This repository contains my daily practice and mini projects.
+Revising core JavaScript concepts and building small projects to sharpen my development skills.
+
